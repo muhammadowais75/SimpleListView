@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="book_categories">
+        <item>Fiction</item>
+        <item>Drama</item>
+        <item>Influential</item>
+        <item>Motivational</item>
+        <item>Story</item>
+        <item>Emotional</item>
+        <item>Quotations</item>
+        <item>Seasons</item>
+        <item>History</item>
+        <item>Research</item>
+        <item>Technology</item>
+        <item>Literature</item>
+        <item>Poetry</item>
+        <item>Novels</item>
+    </string-array>
+
+</resources>

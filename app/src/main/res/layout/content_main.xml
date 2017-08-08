@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/padding_value"
+    android:paddingLeft="@dimen/padding_value"
+    android:paddingRight="@dimen/padding_value"
+    android:paddingTop="@dimen/padding_value"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.moandroidapps.simplelistview.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+
+    <ListView
+        android:id="@+id/simple_listview_for_book_categories"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+
+
+</RelativeLayout>
